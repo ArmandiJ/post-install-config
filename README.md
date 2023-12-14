@@ -72,7 +72,7 @@ Create a Level II Support Team and add yourself as a member to this team
 ![image](https://github.com/ArmandiJ/post-install-config/assets/153237878/7f442695-984c-496b-b56e-fb9e0cd8d864)
 
 
-- Create another agent and replace Jane with John. Follow the same steps as above, except in Department dropdown menu -> Support and in Role dropdown menu -> View Only
+- Create another agent and replace Jane with John. Follow the same steps as above, except in Department dropdown menu -> Support and in Role dropdown menu -> Supreme Admin
 
 
 ![image](https://github.com/ArmandiJ/post-install-config/assets/153237878/b04d3ace-ce4c-4837-8ccd-da18abd4d165)
