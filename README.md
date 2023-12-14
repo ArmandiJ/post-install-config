@@ -68,6 +68,7 @@ Create a Level II Support Team and add yourself as a member to this team
 - Select set
 - Inside Access tab -> Select the Department dropdown menu -> System Administrators -> Select the Role dropdown menu -> Supreme Admin
 - Inside Team tab -> Select Team dropdown menu -> Level II Support -> Select Add -> Select Create
+- Extended Access -> Department dropdown menu -> Support -> Role dropdown menu -> Supreme Admin
 ![image](https://github.com/ArmandiJ/post-install-config/assets/153237878/7f442695-984c-496b-b56e-fb9e0cd8d864)
 
 
